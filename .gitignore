@@ -1,0 +1,7 @@
+# Ignorar diretórios __pycache__
+__pycache__/
+*.pyc
+
+# Ignorar arquivos .env que contêm configurações sensíveis
+.env
+/env
